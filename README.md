@@ -30,4 +30,4 @@ Sono uno studente di Computer Science appassionato di sviluppo software, tooling
 
 
 ## Languages
--Arabic: Native —Italian: B2 — English: B2 
+- Arabic: Native —Italian: B2 — English: B2 
